@@ -1,0 +1,22 @@
+{
+  "name": "typescript-blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvintern/TypeScript-Blockchain.git"
+  },
+  "author": "Jinwoo Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elvintern/TypeScript-Blockchain/issues"
+  },
+  "homepage": "https://github.com/elvintern/TypeScript-Blockchain#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
